@@ -7,7 +7,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=ehAsuna&&show_icons=true&theme=radical"/>
   </a>
   </p>
-<img src="https://data.whicdn.com/images/311865340/original.gif" align="right" width="300.5px" height="192.5px">
+<img src="https://data.whicdn.com/images/311865340/original.gif" align="right" width="30.5px" height="19.5px">
 </div>
 <br>
 <div>
