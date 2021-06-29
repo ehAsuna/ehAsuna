@@ -2,12 +2,13 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
+  <img src="https://data.whicdn.com/images/311865340/original.gif" align="right" width="316.5px" height="208.5px">
+
   <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=ehAsuna&&show_icons=true&theme=radical"/>
   </a>
   </p>
-<img src="https://data.whicdn.com/images/311865340/original.gif" align="right" width="30.5px" height="19.5px">
 </div>
 <br>
 <div>
