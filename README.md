@@ -51,7 +51,7 @@ I'm also fairly skilled with creativity, discord.js, and writing tutorials! Not 
 <img  src="https://github-readme-stats.vercel.app/api?username=ehAsuna&&show_icons=true&theme=radical"/>
   </a>
   </p>
-<img src="https://i.pinimg.com/originals/62/55/9d/62559ddae39f168993b3e866bd01cc67.gif">
+<img src="https://i.pinimg.com/originals/62/55/9d/62559ddae39f168993b3e866bd01cc67.gif" width="800" heighth="450">
 </div>
 <hr>
 </div>
