@@ -27,7 +27,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.imgur.com/LOpjQBa.gif" align="right">
+<img src="https://i.imgur.com/LOpjQBa.gif" align="right" width="373.5px" height="208.5px">
 </div>
 <div>
 <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br>
@@ -36,7 +36,7 @@ I'm also fairly skilled with creativity, discord.js, and writing tutorials! Not 
 </p>
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/LOpjQBa.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://media1.tenor.com/images/16256b7080918a878438934551b79f77/tenor.gif?itemid=17513468" align="right" width="373.5px" height="208.5px">
 <br>
   <p align="center">Brr here are most used socials</p>
 <p align="center"><a href="https://twitter.com/eh_asuna" target="_blank"><img src="https://img.shields.io/badge/eh_asuna%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/codeasaurous" target="_blank"><img src="https://img.shields.io/badge/Codeasaurous%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
