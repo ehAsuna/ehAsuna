@@ -2,12 +2,12 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.ibb.co/QFHgR07/asuna-Programming-BG-1.gif">
+<img src="https://data.whicdn.com/images/311865340/original.gif">
 </div>
 <br>
 <div>
 <h2 align="center"> 🐱‍👤 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐱‍👤 </h2>
-<img src="https://i.gifer.com/HZgR.gif" align="right">
+<img src="https://i.imgur.com/SLPtsWM.gif" align="right">
 <li>
 <b>Name:</b> Bart</li>
 <li>
