@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/QwpsY4m.mp4">
+<img src="https://i.ibb.co/QFHgR07/asuna-Programming-BG-1.gif">
 </div>
 <br>
 <div>
