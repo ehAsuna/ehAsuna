@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🐱‍👤 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐱‍👤 </h2>
-<img src="https://imgur.com/mh3irqM" align="right">
+<img src="https://i.gifer.com/HZgR.gif" align="right">
 <li>
 <b>Name:</b> Bart</li>
 <li>
@@ -27,7 +27,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://imgur.com/5Igo0sG" align="right">
+<img src="https://i.pinimg.com/originals/b6/b4/de/b6b4ded4bd797b093cc9b68aa6fba694.gif" align="right">
 </div>
 <div>
 <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br>
@@ -46,7 +46,7 @@ I'm also fairly skilled with creativity, discord.js, and writing tutorials! Not 
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://i.pinimg.com/originals/62/55/9d/62559ddae39f168993b3e866bd01cc67.gif">
 </div>
 <hr>
 </div>
