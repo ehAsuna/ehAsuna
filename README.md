@@ -2,7 +2,12 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://data.whicdn.com/images/311865340/original.gif">
+  <p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=ehAsuna&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+<img src="https://data.whicdn.com/images/311865340/original.gif" align="right" width="316.5px" height="208.5px">
 </div>
 <br>
 <div>
@@ -46,11 +51,6 @@ I'm also fairly skilled with creativity, discord.js, and writing tutorials! Not 
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
- <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ehAsuna&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 <img src="https://i.pinimg.com/originals/62/55/9d/62559ddae39f168993b3e866bd01cc67.gif" width="800" heighth="450">
 </div>
 <hr>
