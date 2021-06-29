@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🐱‍👤 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐱‍👤 </h2>
-<img src="https://i.imgur.com/SLPtsWM.gif" align="right">
+<img src="https://i.imgur.com/SLPtsWM.gif" align="right" width="373.5px" height="208.5px">
 <li>
 <b>Name:</b> Bart</li>
 <li>
