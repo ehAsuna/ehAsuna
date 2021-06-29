@@ -40,7 +40,7 @@ I'm also fairly skilled with creativity, discord.js, and writing tutorials! Not 
 <br>
   <p align="center">Brr here are most used socials</p>
 <p align="center"><a href="https://twitter.com/eh_asuna" target="_blank"><img src="https://img.shields.io/badge/eh_asuna%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/codeasaurous" target="_blank"><img src="https://img.shields.io/badge/Codeasaurous%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.youtube.com/channel/UC7Rlc68ImIV32Y95xLmTSpA" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.youtube.com/channel/UC7Rlc68ImIV32Y95xLmTSpA" target="_blank"><img src="https://img.shields.io/badge/eh_asuna%20-%239146FF.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
