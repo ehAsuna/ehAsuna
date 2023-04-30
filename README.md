@@ -1,59 +1,34 @@
-<body>
-<h1 align="center">Welcome to my profile!</h1>
-<br>
-<div align="center">
-  <img src="https://static.wikia.nocookie.net/swordartonline/images/a/ad/Sterben.png" align="right" width="316.5px" height="208.5px">
+# 💫 About Me:
+🔭 I’m currently working on my CTF guide<br>🤝 I’m looking for any help you may have<br>🌱 I’m currently learning Linux, Bash, & Python<br>💬 Ask me about anything<br>⚡ Fun fact, I can play the 3rd movement of moonlight sonata by memory
 
-  <p align="left" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=xaxa-07x10&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-</div>
-<br>
-<div>
-<h2 align="center">About me!</h2>
-<img src="https://i.imgur.com/SLPtsWM.gif" align="right" width="316.5px" height="206.5px">
-<li>
-<b>Name:</b> Bart</li>
-<li>
-<b>Loves:</b> Cybersecurity, programming, life (sometimes)
-</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Hobbys:</b> Gaming, Hacking, Programming, Soccer, Piano
-</li>
-<li>
-<b>Working @:</b> as a student!
-</li>
-<br>
-</div>
-<div>
-<h2 align="left">            Knowledge</h2>
-<p>
-<img src="https://i.imgur.com/LOpjQBa.gif" align="right" width="353.5px" height="208.5px">
-</div>
-<div>
-<p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-I'm also fairly skilled with creativity, discord.js, and writing tutorials!
-</p>
-<br>
-<h2>           Contact Me</h2>
-<img src="https://media1.tenor.com/images/16256b7080918a878438934551b79f77/tenor.gif?itemid=17513468" align="right" width="373.5px" height="208.5px">
-<br>
-  <p align="center">Socials:</p>
-<p align="center"><a href="https://twitter.com/xaxa_07x10" target="_blank"><img src="https://img.shields.io/badge/eh_asuna%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/codeasaurous" target="_blank"><img src="https://img.shields.io/badge/Codeasaurous%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.youtube.com/channel/UC7Rlc68ImIV32Y95xLmTSpA" target="_blank"><img src="https://img.shields.io/badge/xaxa-07x10%20-%239146FF.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a></p>
-</div>
-<br>
-<div>
-<div align="center">
-<img src="https://i.pinimg.com/originals/62/55/9d/62559ddae39f168993b3e866bd01cc67.gif" width="800" heighth="450">
-</div>
-<hr>
-</div>
-</div>
-</body>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xaxa.0x3F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartheimsness) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14736910) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xaxa.0x3F) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xaxa_0x3F) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7Rlc68ImIV32Y95xLmTSpA) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xaxa-0x3F&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xaxa-0x3F&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xaxa-0x3F&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xaxa-0x3F&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=xaxa-0x3F&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=xaxa-0x3F&icon=0&color=4)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xaxa) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
