@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <br>
 <div align="center">
-  <img src="https://data.whicdn.com/images/311865340/original.gif" align="right" width="316.5px" height="208.5px">
+  <img src="https://static.wikia.nocookie.net/swordartonline/images/a/ad/Sterben.png" align="right" width="316.5px" height="208.5px">
 
   <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
